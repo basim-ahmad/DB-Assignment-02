@@ -1,5 +1,3 @@
-# i202456_i200837_Assignment_2_CY_T_DB
-
 # SQL Queries and Solutions - README
 
 This README.md file provides detailed explanations and documentation for a set of SQL queries. Each query addresses a specific question or scenario, and this document includes information on how each question was approached, the SQL query used to solve it, any challenges faced during implementation, and the solutions applied to resolve those challenges.
